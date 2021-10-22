@@ -9,7 +9,7 @@ For general discussion please go to https://gitter.im/dotnet/orleans.
 
 Subscribe to this repo to be notified about Orleans meetups, releases and blog posts.
 
-![image](https://cloud.githubusercontent.com/assets/202643/7099148/d5b091f8-dfa1-11e4-8d13-c0195714f31e.png)
+![image](https://user-images.githubusercontent.com/234704/138496749-a78dd450-0801-4faa-9e29-edaabf84d913.png)
 
 All items posted to this repo are locked, but should all have links to separate discussion threads in the affected repo. 
 
